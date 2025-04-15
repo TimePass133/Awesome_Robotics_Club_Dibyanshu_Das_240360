@@ -1,0 +1,1 @@
+I'm participating in the hexapod project to explore my interests in electrical systems and programming. I find robotics exciting and want to learn how different components work together in a complex body. I wish to work with a team with similar interests, and I hope this project inspires new ideas in me and deepens my curiosity in the field.
